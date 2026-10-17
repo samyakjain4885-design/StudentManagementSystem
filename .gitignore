@@ -1,0 +1,5 @@
+
+.vscode/
+*.class
+.env
+src/oracleJdk-27/
